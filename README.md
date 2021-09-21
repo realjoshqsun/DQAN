@@ -3,7 +3,7 @@ This repository contains the code for our IJCNN 2021 paper:
 
 Qixuan Sun, Yaqi Yin and Hong Yu. A Dual-Questioning Attention Network for Emotion-Cause Pair Extraction with Context Awareness. in IJCNN 21.
 
-[[IEEE version](https://ieeexplore.ieee.org/document/9533767)] [[arxiv version](https://arxiv.org/abs/2104.07221)]
+[[IEEE version](https://ieeexplore.ieee.org/document/9533767)] [[arXiv version](https://arxiv.org/abs/2104.07221)]
 
 ## Dependencies
 
